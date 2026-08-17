@@ -1,4 +1,4 @@
-# Mission Reflection
+# Reflection
 
 Completing the Multi-Cloud Explorer mission helped me understand that cloud platforms should be evaluated based on their capabilities and how well they fit specific business requirements. Among AWS, Microsoft Azure, and Google Cloud Platform, GCP impressed me the most because of its strong capabilities in artificial intelligence, machine learning, data analytics, and Kubernetes. These technologies are useful for modern applications and are areas that I am interested in learning more about.
 
