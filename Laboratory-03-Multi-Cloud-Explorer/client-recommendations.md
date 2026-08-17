@@ -54,3 +54,13 @@ AWS is an appropriate choice for the global e-commerce company because it provid
 * Amazon S3
 * Elastic Load Balancing
 
+## Multi-Cloud Decision Matrix
+
+| Business Requirement    | Recommended Platform        | Justification                                                                                                          |
+| ----------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Startup Company         | Google Cloud Platform (GCP) | GCP provides scalable infrastructure and modern cloud services that can support a startup as it grows.                 |
+| Enterprise Organization | Amazon Web Services (AWS)   | AWS provides a broad range of services and a large global infrastructure suitable for complex enterprise workloads.    |
+| Microsoft Environment   | Microsoft Azure             | Azure provides strong integration with Windows Server, Microsoft 365, and Microsoft identity technologies.             |
+| AI / Machine Learning   | Google Cloud Platform (GCP) | GCP is particularly strong in artificial intelligence, machine learning, and data analytics.                           |
+| Kubernetes Deployment   | Google Cloud Platform (GCP) | GCP provides Google Kubernetes Engine (GKE), a managed Kubernetes service for deploying containerized applications.    |
+| Global Web Application  | Amazon Web Services (AWS)   | AWS provides extensive global infrastructure and scalable services that can support highly available web applications. |
